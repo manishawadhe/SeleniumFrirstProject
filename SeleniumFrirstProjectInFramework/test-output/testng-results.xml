@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T09:15:55 IST" name="Default suite" finished-at="2023-04-12T09:15:59 IST" duration-ms="4520">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T09:15:55 IST" name="Default test" finished-at="2023-04-12T09:15:59 IST" duration-ms="4520">
+      <class name="com.training.sanity.tests.MxPayerLoginTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.training.sanity.tests.MxPayerLoginTests@35ef1869]" started-at="2023-04-12T09:15:55 IST" name="setUp" finished-at="2023-04-12T09:15:57 IST" duration-ms="2209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.training.sanity.tests.MxPayerLoginTests@35ef1869]" started-at="2023-04-12T09:15:57 IST" name="loginTest" finished-at="2023-04-12T09:15:58 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="googleBtn()[pri:8, instance:com.training.sanity.tests.MxPayerLoginTests@35ef1869]" started-at="2023-04-12T09:15:58 IST" name="googleBtn" finished-at="2023-04-12T09:15:58 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleBtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.training.sanity.tests.MxPayerLoginTests@35ef1869]" started-at="2023-04-12T09:15:58 IST" name="tearDown" finished-at="2023-04-12T09:15:59 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.MxPayerLoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
